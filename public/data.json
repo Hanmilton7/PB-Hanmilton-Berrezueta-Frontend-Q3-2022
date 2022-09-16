@@ -1,0 +1,294 @@
+{
+    "data": [
+        {
+            "type": "admin",
+            "id": "1",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/1.svg"
+            },
+            "user": {
+                "username": "anonimo1",
+                "password": "123456",
+                "identification": "1717171717",
+                "name": "Nombre1 Nombre2",
+                "lastname": "Apellido1 Apellido2",
+                "mail" : "empleado1@correo.com",
+                "is_vaccinated": "true",
+                "vaccination_info" : {
+                    "vaccination_type" : "Pfizer",
+                    "vaccination date" : "09/07/2022"
+                }
+            }
+        },
+        {
+            "type": "employee",
+            "id": "2",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/2.svg"
+            },
+            "user": {
+                "username": "anonimo2",
+                "password": "123456",
+                "identification": "1111111111",
+                "name": "Nombre3 Nombre4",
+                "lastname": "Apellido3 Apellido4",
+                "mail" : "empleado2@correo.com",
+                "is_vaccinated": "false",
+                "vaccination_info" : {
+                    "vaccination_type" : "",
+                    "vaccination date" : ""
+                }
+            }
+        },
+        {
+            "type": "employee",
+            "id": "3",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/3.svg"
+            },
+            "user": {
+                "username": "anonimo3",
+                "password": "123456",
+                "identification": "1212121212",
+                "name": "Nombre5 Nombre6",
+                "lastname": "Apellido5 Apellido6",
+                "mail" : "empleado3@correo.com",
+                "is_vaccinated": "true",
+                "vaccination_info" : {
+                    "vaccination_type" : "AstraZeneca",
+                    "vaccination date" : "09/08/2022"
+                }
+            }
+        },
+        {
+            "type": "employee",
+            "id": "4",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/4.svg"
+            },
+            "user": {
+                "username": "anonimo4",
+                "password": "123456",
+                "identification": "1313131313",
+                "name": "Nombre7 Nombre8",
+                "lastname": "Apellido7 Apellido8",
+                "mail" : "empleado4@correo.com",
+                "is_vaccinated": "true",
+                "vaccination_info" : {
+                    "vaccination_type" : "Moderna",
+                    "vaccination date" : "09/09/2022"
+                }
+            }
+        },
+        {
+            "type": "employee",
+            "id": "5",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/5.svg"
+            },
+            "user": {
+                "username": "anonimo5",
+                "password": "123456",
+                "identification": "1414141414",
+                "name": "Nombre8 Nombre9",
+                "lastname": "Apellido8 Apellido9",
+                "mail" : "empleado5@correo.com",
+                "is_vaccinated": "true",
+                "vaccination_info" : {
+                    "vaccination_type" : "Janssen",
+                    "vaccination date" : "09/10/2022"
+                }
+            }
+        },
+        {
+            "type": "employee",
+            "id": "6",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/6.svg"
+            },
+            "user": {
+                "username": "anonimo6",
+                "password": "123456",
+                "identification": "1515151515",
+                "name": "Nombre6 Nombre6",
+                "lastname": "Apellido6 Apellido6",
+                "mail" : "empleado6@correo.com",
+                "is_vaccinated": "true",
+                "vaccination_info" : {
+                    "vaccination_type" : "Sanofi",
+                    "vaccination date" : "09/11/2022"
+                }
+            }
+        },
+        {
+            "type": "employee",
+            "id": "7",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/7.svg"
+            },
+            "user": {
+                "username": "anonimo7",
+                "password": "123456",
+                "identification": "1616161616",
+                "name": "Nombre7 Nombre7",
+                "lastname": "Apellido7 Apellido7",
+                "mail" : "empleado7@correo.com",
+                "is_vaccinated": "true",
+                "vaccination_info" : {
+                    "vaccination_type" : "UreVac",
+                    "vaccination date" : "09/12/2022"
+                }
+            }
+        },
+        {
+            "type": "admin",
+            "id": "8",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/8.svg"
+            },
+            "user": {
+                "username": "anonimo1",
+                "password": "123456",
+                "identification": "1717171717",
+                "name": "Nombre1 Nombre2",
+                "lastname": "Apellido1 Apellido2",
+                "mail" : "empleado1@correo.com",
+                "is_vaccinated": "true",
+                "vaccination_info" : {
+                    "vaccination_type" : "Pfizer",
+                    "vaccination date" : "09/07/2022"
+                }
+            }
+        },
+        {
+            "type": "employee",
+            "id": "9",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/9.svg"
+            },
+            "user": {
+                "username": "anonimo2",
+                "password": "123456",
+                "identification": "1111111111",
+                "name": "Nombre3 Nombre4",
+                "lastname": "Apellido3 Apellido4",
+                "mail" : "empleado2@correo.com",
+                "is_vaccinated": "false",
+                "vaccination_info" : {
+                    "vaccination_type" : "",
+                    "vaccination date" : ""
+                }
+            }
+        },
+        {
+            "type": "employee",
+            "id": "10",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/10.svg"
+            },
+            "user": {
+                "username": "anonimo3",
+                "password": "123456",
+                "identification": "1212121212",
+                "name": "Nombre5 Nombre6",
+                "lastname": "Apellido5 Apellido6",
+                "mail" : "empleado3@correo.com",
+                "is_vaccinated": "true",
+                "vaccination_info" : {
+                    "vaccination_type" : "AstraZeneca",
+                    "vaccination date" : "09/08/2022"
+                }
+            }
+        },
+        {
+            "type": "employee",
+            "id": "11",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/11.svg"
+            },
+            "user": {
+                "username": "anonimo4",
+                "password": "123456",
+                "identification": "1313131313",
+                "name": "Nombre7 Nombre8",
+                "lastname": "Apellido7 Apellido8",
+                "mail" : "empleado4@correo.com",
+                "is_vaccinated": "true",
+                "vaccination_info" : {
+                    "vaccination_type" : "Moderna",
+                    "vaccination date" : "09/09/2022"
+                }
+            }
+        },
+        {
+            "type": "employee",
+            "id": "12",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/12.svg"
+            },
+            "user": {
+                "username": "anonimo5",
+                "password": "123456",
+                "identification": "1414141414",
+                "name": "Nombre8 Nombre9",
+                "lastname": "Apellido8 Apellido9",
+                "mail" : "empleado5@correo.com",
+                "is_vaccinated": "true",
+                "vaccination_info" : {
+                    "vaccination_type" : "Janssen",
+                    "vaccination date" : "09/10/2022"
+                }
+            }
+        },
+        {
+            "type": "employee",
+            "id": "13",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/13.svg"
+            },
+            "user": {
+                "username": "anonimo6",
+                "password": "123456",
+                "identification": "1515151515",
+                "name": "Nombre6 Nombre6",
+                "lastname": "Apellido6 Apellido6",
+                "mail" : "empleado6@correo.com",
+                "is_vaccinated": "true",
+                "vaccination_info" : {
+                    "vaccination_type" : "Sanofi",
+                    "vaccination date" : "09/11/2022"
+                }
+            }
+        },
+        {
+            "type": "employee",
+            "id": "14",
+            "image": {
+                    "url": "https://avatars.dicebear.com/api/avataaars/14.svg"
+            },
+            "user": {
+                "username": "anonimo7",
+                "password": "123456",
+                "identification": "1616161616",
+                "name": "Nombre7 Nombre7",
+                "lastname": "Apellido7 Apellido7",
+                "mail" : "empleado7@correo.com",
+                "is_vaccinated": "true",
+                "vaccination_info" : {
+                    "vaccination_type" : "UreVac",
+                    "vaccination date" : "09/12/2022"
+                }
+            }
+        }
+    ],
+    "pagination": {
+        "total_count": 10474,
+        "count": 10,
+        "offset": 0
+    },
+    "meta": {
+        "status": 200,
+        "msg": "OK",
+        "response_id": ""
+    }
+}

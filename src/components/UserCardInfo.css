@@ -1,0 +1,78 @@
+h6 {
+    margin-bottom: 0.25rem;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+ h6 {
+    font-size: 14px;
+  }
+}
+
+.btn-{
+    background-color: gray;
+    color:white;
+}
+
+.btn-Pfizer {
+    background-color: blueviolet;
+    color:white;
+}
+
+.btn-Pfizer:hover, .btn-Pfizer:focus, .btn-Pfizer:active {
+    background-color: blueviolet;
+    color:white;
+}
+
+.btn-AstraZeneca {
+    background-color: burlywood;
+    color:white;
+}
+
+.btn-AstraZeneca:hover, .btn-AstraZeneca:focus, .btn-AstraZeneca:active {
+    background-color: burlywood;
+    color:white;
+}
+
+.btn-Moderna {
+    background-color: cornflowerblue;
+    color:white;
+}
+
+.btn-Moderna:hover, .btn-Moderna:focus, .btn-Moderna:active {
+    background-color: cornflowerblue;
+    color:white;
+}
+
+
+.btn-Sanofi {
+    background-color: indianred;
+    color:white;
+}
+
+.btn-Sanofi:hover, .btn-Sanofi:focus, .btn-Sanofi:active {
+    background-color: indianred;
+    color:white;
+}
+
+.btn-Janssen {
+    background-color: darkolivegreen;
+    color:white;
+}
+
+.btn-Janssen:hover, .btn-Janssen:focus, .btn-Janssen:active {
+    background-color: darkolivegreen;
+    color:white;
+}
+
+
+.btn-UreVac {
+    background-color: hotpink;
+    color:white;
+}
+
+.btn-UreVac:hover, .btn-UreVac:focus, .btn-UreVac:active {
+    background-color: hotpink;
+    color:white;
+}
+
